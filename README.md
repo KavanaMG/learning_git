@@ -14,3 +14,7 @@ Learning git Basic and advanced concepts
 
 
 ## Git Advanced
+
+
+- git rebase
+- git conflict
